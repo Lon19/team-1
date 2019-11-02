@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent" >
+	<TextView
+		android:id="@+id/questionIdTextBox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Name"/>
+	<TextView
+		android:id="@+id/contentTextBox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Name"/>
+	<TextView
+		android:id="@+id/firstVarientTextBox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Name"/>
+	<TextView
+		android:id="@+id/secondVarientTextBox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Name"/>
+	<TextView
+		android:id="@+id/correctVarientTextBox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Name"/>
+	<TextView
+		android:id="@+id/creationTimeTextBox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Name"/>
+
+</LinearLayout>
